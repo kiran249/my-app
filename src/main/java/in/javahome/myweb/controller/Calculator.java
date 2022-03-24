@@ -15,10 +15,14 @@ public class Calculator {
 		return i+j;
 	}
 	public int multiply(int i, int j){
+		String name = null;
+		name.toString();
 		return i*j;
 	}
 	
 	public int reminder(int i, int j){
+		String name = null;
+		name.toString();
 		return i%j;
 	}
 	
