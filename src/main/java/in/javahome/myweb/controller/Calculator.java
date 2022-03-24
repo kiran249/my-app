@@ -10,6 +10,8 @@ public class Calculator {
 	 * @return int
 	 */
 	public int add(int i, int j){
+		string = null;
+		csk captain always dhoni
 		return i+j;
 	}
 	public int multiply(int i, int j){
